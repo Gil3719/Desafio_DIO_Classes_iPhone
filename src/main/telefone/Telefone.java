@@ -1,4 +1,4 @@
-package desafio.telefone;
+package main.telefone;
 
 public interface Telefone {
     public void ligar();
