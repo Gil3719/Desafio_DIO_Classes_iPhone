@@ -1,4 +1,4 @@
-package desafio.reprodutor_Musical;
+package main.reprodutor_Musical;
 
 public interface ReprodutorMusical {
     public void tocar();
