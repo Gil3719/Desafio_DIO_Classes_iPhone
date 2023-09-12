@@ -1,6 +1,6 @@
-package desafio;
+package main;
 
-import desafio.iphone.Iphone;
+import main.iphone.Iphone;
 
 public class IphoneDoUsuario {
     public static void main(String[] args) {
