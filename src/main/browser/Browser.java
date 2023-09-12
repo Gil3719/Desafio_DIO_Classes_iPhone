@@ -1,4 +1,4 @@
-package desafio.browser;
+package main.browser;
 
 public interface Browser {
     public void exibirPagina();
