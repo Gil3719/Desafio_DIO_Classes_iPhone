@@ -1,8 +1,8 @@
-package desafio.iphone;
+package main.iphone;
 
-import desafio.browser.Browser;
-import desafio.reprodutor_Musical.ReprodutorMusical;
-import desafio.telefone.Telefone;
+import main.browser.Browser;
+import main.reprodutor_Musical.ReprodutorMusical;
+import main.telefone.Telefone;
 
 public class Iphone implements ReprodutorMusical, Telefone, Browser {
     public void tocar(){
